@@ -3,7 +3,7 @@
 All the work was done using SQL Server Management Studio (SSMS)
 
 ## Dataset
-The dataset used can be downloaded from the csv file
+The dataset used can be downloaded from the csv file <br>
 https://github.com/georgeselkassouf/SQL-Data-Cleaning/blob/03fb8d04c0b9f2a3c1784936e8f36c36187bda5f/NashvilleHousing.csv
 
 ## Databse Creation
